@@ -23,7 +23,7 @@
 			<tr><td>No.hp</td><td>: <input type="text" name="Nohp" width="20"></td></tr>
 			<tr></tr>
 			<tr><td><input type="submit" value="simpan"></td><td>
-			<button><a class="button" href="http://localhost/responsi/index.php" > Home </a></button></td></tr>
+			<button><a class="button" href="http://localhost/responsi/TA/index.php" > Home </a></button></td></tr>
 		</tr></table></center>	
 	</form>
 </body>
