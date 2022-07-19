@@ -19,6 +19,7 @@
 </head>
 <body>
 	<center>
+	<?php include("Home.html");  ?>
 	<FORM NAME="RES">
     <table border="1">
         <tr>
