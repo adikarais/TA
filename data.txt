@@ -1,0 +1,48 @@
+2100018133; adika rais muhammad abror; klaten
+2100018133; ali; klaten 
+2100018133; ali; klaten
+2100018133; adika rais muhammad abror; klaten
+2100018133; Adika Rais Muhammad abror; Salatiga
+2100018133; Adika Rais Muhammad abror; Salatiga
+2100018133; Adika Rais Muhammad abror; Salatiga
+2100018133; Adika Rais Muhammad abror; Salatiga
+2100018133; adika; Salatiga
+2100018133; adika rais muhammad abror; klaten
+2; 2; 2
+2; 2; 2
+2; 2; 2
+2; 2; 2
+2; 2; 2
+2; 2; 2
+2; 2; 2
+2; 2; 2
+2; 2; 2
+1; 2; 3
+1; 2; 3
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+2100018133; ali; ; 0895
+2100018133; adika rais muhammad abror; ; 0895
+2100018133; 1; 1; 1
+2100018133; 1; 1; 1
+2100018133; ali ku; salatiga; 0895
+a; a; a; a
+; ; ; 
+2222; 2222; 2222; 2222
+2100018133; ali; salatiga; 0895
+2100018133; ali; salatiga; 0895
+; ; ; 
+; ; ; 
+; ; ; 
+; ; ; 
+a; a; a; a
+b; b; b; b
+w; w; w; w
