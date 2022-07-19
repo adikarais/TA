@@ -82,9 +82,9 @@
 
 	<!-- Membuat menu navigasi pada raw -->
 	<div class="topnav">
-		<a href="http://localhost/responsi/kalkulator.php">kalkulator</a>
-		<a href="http://localhost/responsi/form.php">form</a>
-		<a href="http://localhost/responsi/simpan.php">history</a>
+		<a href="http://localhost/responsi/TA/kalkulator.php">kalkulator</a>
+		<a href="http://localhost/responsi/TA/form.php">form</a>
+		<a href="http://localhost/responsi/TA/simpan.php">history</a>
 		
 	</div>
 
