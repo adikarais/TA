@@ -93,7 +93,7 @@
 		<!-- kolom sebelah kiri berisi teks artikel -->
 		<div class="centerkolom">
 			<div class="card">
-				<form class="form" method="post" >
+				<form class="form" method="post" action="simpan.php>
 					<center><table class="daftar">
 					<h1>DAFTAR</h1>
 					<tr><td>NIM</td><td>:  <input type="text" name="nim" width="20"></td></tr>
